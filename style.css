@@ -6,7 +6,8 @@
 
 .main{
     width: 100%;
-    /* background: black;  linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(1.jpg) */
+    background: black; 
+     /* linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(1.jpg) */
     background:url(../image/Coding.webp);
     background-position: center;
     /* padding-top: 200px; */
